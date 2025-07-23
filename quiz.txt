@@ -1,0 +1,10 @@
+Which among the following is not an operating system?,,PITEX,,UNIX,,LINUX,,OS X
+A sort of malware computer program that keeps replicating itself and can easily get diffused into other computers through internet is known as ...,,Worms,,Virus,,Trojans,,Spyware
+Which among the following is used in creating a chart?,,Chart Wizard,,Computing Wizard,,Calculating Wizard,,Data Wizard
+If you need to select all the contents of MS Word, which command will you give?,,CTRL A,,CTRL C,,CTRL V,,CTRL Z
+A person who sends irrelevant or unsolicited messages by using Internet, usually to large numbers of users, for the purposes of advertising, spreading malware, phishing, etc. is known as …,,Spammer,,Hacker,,Programmer,,Hobbyist
+Which among the following is the shortcut key to Zoom in window?,,WIN +,,SHIFT +,,WIN F4,,ALT +Which among the following is a permanent storage device?,,ROM,,RAM,,Flash Drive,,ROM and Flash Drive
+In a computer binary system, there are ……… choices.,,2,,6,,9,,Not fixed, it may be any number depending on the configuration of a computer
+In a network system, which among the following is the most powerful computer?,,Server,,Laptop,,Desktop,,Notebook
+An IPv6 address is a ………. Number.,,32-bit,,16-bit,,8-bit,,64-bit
+Which among the following is incorrectly matched?,,Microsoft Windows XP 2006,,Microsoft Windows 98 1998,,Microsoft Windows ME 2000,,Microsoft Windows Vista 2007
